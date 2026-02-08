@@ -26,7 +26,6 @@ const PrankReveal: React.FC = () => {
         <div className="absolute inset-0 z-10 bg-transparent"></div>
       </div>
       
-      <p className="text-pink-400 font-bold">C&apos;était une blague ! 😂🤡</p>
     </div>
   );
 };
